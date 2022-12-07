@@ -1,0 +1,4 @@
+{
+    "jwt_key": "SecretKey",
+    "db_pass" : "mysql00"
+}
